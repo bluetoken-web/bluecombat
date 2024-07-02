@@ -1,0 +1,3 @@
+[submodule "bluecombat"]
+  path = bluecombat
+  url = https://github.com/bluetoken-web/bluecombat.git
